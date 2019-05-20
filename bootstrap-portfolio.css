@@ -1,8 +1,12 @@
 body {
-    background-image: url(media/retina_wood_@2X.png);
+    background-image: url("media/retina_wood_@2X.png");
     background-attachment: scroll;
 }
 
 .container {
     margin-bottom: 40vh;
+}
+
+footer {
+    margin-top: 50px;
 }
