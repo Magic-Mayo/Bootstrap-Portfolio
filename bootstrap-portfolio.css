@@ -6,3 +6,7 @@ body {
 .container {
     margin-bottom: 40vh;
 }
+
+h1 {
+    font-weight: bold;
+}
