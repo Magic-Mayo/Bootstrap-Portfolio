@@ -1,5 +1,6 @@
 body {
-    background-image: url("media/retina_wood_@2X.png");
+    /* Background pattern from Toptal Subtle Patterns */
+    background-image: url("Media/retina_wood_@2X.png");
     background-attachment: scroll;
 }
 
